@@ -63,7 +63,7 @@ so because i absolutely suck at coding, i just let github copilot make this proj
 well atleast i can understand the code it has written :3
 
 ## and how am i supposed to use this project?
-the project includes both a python app located here  
+the project includes both a python app located [here](client/doorbell_client.py)  
 and an app for android devices over here
 
 both apps connect to the board via wifi, however while in the python file you put the token in the "token.txt" file  
