@@ -74,6 +74,10 @@ while the android app asks you to type in the token into the login credentials, 
 yeah, these apps use a token to make sure your data is secure c:  
 it has to be atleast 16 characters, id recommend making a random one using a generator
 
+### what software should i use to flash the code?
+you should use vs-code with the platform-io extension since thats what the project is based on  
+arduino ide or esp-idf ide wont work here
+
 ## and how does the app look?
 so here's the android app:
 <img width="945" height="2048" alt="WhatsApp Image 2026-11-20 at 19 21 06" src="https://github.com/user-attachments/assets/fc4a7bc4-e56a-4c41-8731-1c1df3bce38f" />
