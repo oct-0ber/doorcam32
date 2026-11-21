@@ -65,7 +65,7 @@ well atleast i can understand the code it has written :3
 ## and how am i supposed to use this project?
 the project includes both a python app located [here](client/doorbell_client.py)  
 an app for android devices over [here](https://github.com/oct-0ber/doorcam32/releases/tag/app-android)  
-or you could use my other project, the doorcam32-viewer [here](github.com/oct-0ber/doorcam32-viewer)
+or you could use my other project, the doorcam32-viewer [here](https://github.com/oct-0ber/doorcam32-viewer)
 
 both apps and/or viewer connect to the board via wifi, however while in the python file you put the token in the "token.txt" file  
 the android app asks you to type in the token into the login credentials, alongside the doorbell ip adress  
