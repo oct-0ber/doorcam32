@@ -64,10 +64,12 @@ well atleast i can understand the code it has written :3
 
 ## and how am i supposed to use this project?
 the project includes both a python app located [here](client/doorbell_client.py)  
-and an app for android devices over [here](https://github.com/oct-0ber/doorcam32/releases/tag/app-android)
+an app for android devices over [here](https://github.com/oct-0ber/doorcam32/releases/tag/app-android)  
+or you could use my other project, the doorcam32-viewer [here](github.com/oct-0ber/doorcam32-viewer)
 
-both apps connect to the board via wifi, however while in the python file you put the token in the "token.txt" file  
-while the android app asks you to type in the token into the login credentials, alongside the doorbell ip adress
+both apps and/or viewer connect to the board via wifi, however while in the python file you put the token in the "token.txt" file  
+the android app asks you to type in the token into the login credentials, alongside the doorbell ip adress  
+and the viewer uses code-side data to communicate
 
 ### wait, what token?
 
@@ -83,7 +85,9 @@ so here's the android app:
 <img width="945" height="2048" alt="WhatsApp Image 2026-11-20 at 19 21 06" src="https://github.com/user-attachments/assets/fc4a7bc4-e56a-4c41-8731-1c1df3bce38f" />
 
 and python one (yes ik it looks mid):
-<img width="349" height="375" alt="obraz" src="https://github.com/user-attachments/assets/f69428d5-48d8-4225-b8c9-84852f1fcf6a" />
+<img width="349" height="375" alt="obraz" src="https://github.com/user-attachments/assets/f69428d5-48d8-4225-b8c9-84852f1fcf6a" />  
+
+the other viewer is still in developement so stay tuned >w<
 
 but besides that, the led ring reacts based on the status:
 * on boot: a rainbow
